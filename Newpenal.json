@@ -47,5 +47,12 @@
         "password": "JHDHDF",
         "expirydate": "17-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a6e7c381797da1d9",
+        "username": "JITU",
+        "password": "JHDHDF",
+        "expirydate": "17-09-2025",
+        "Allowoffline": false
     }
 ]
