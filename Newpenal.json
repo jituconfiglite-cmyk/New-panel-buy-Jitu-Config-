@@ -75,5 +75,12 @@
         "password": "hkgdyu",
         "expirydate": "17-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6c2359fb664d09d0",
+        "username": "AMAN",
+        "password": "gjydv",
+        "expirydate": "17-09-2025",
+        "Allowoffline": false
     }
 ]
