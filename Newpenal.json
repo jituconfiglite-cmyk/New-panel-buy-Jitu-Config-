@@ -33,5 +33,12 @@
         "password": "CO68FG",
         "expirydate": "18-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "13e1a6684652f816",
+        "username": "AMAN",
+        "password": "C8FEIV",
+        "expirydate": "17-09-2025",
+        "Allowoffline": false
     }
 ]
