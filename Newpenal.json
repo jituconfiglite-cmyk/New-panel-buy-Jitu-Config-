@@ -26,5 +26,12 @@
         "password": "CONFIG",
         "expirydate": "17-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2aaeccc2c07b9855",
+        "username": "JITU",
+        "password": "CO68FG",
+        "expirydate": "17-09-2025",
+        "Allowoffline": false
     }
 ]
